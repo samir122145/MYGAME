@@ -1,7 +1,7 @@
 # MYGAME
 READ FIRST THEN TRY! YOU CAN MODIFY IT IF YOU WANT ITS OPEN SOURCE
 
-Welcome to samir game! Use this game to build and play your own Obby courses.
+Welcome to samir game! Use this game to build and play your own or Share Obby courses.
 1. Movement & Play Mode:
 W/A/S/D: Move your character.
 Mouse: Free-look camera (Mouse is locked and hidden).

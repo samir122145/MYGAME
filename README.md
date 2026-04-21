@@ -25,7 +25,7 @@ Ctrl + E: Toggle Editor Mode. You will float, and gravity is disabled.
 
 3: Place Checkpoint (Green).
 
-4: Place Roblox Truss (Ladder).
+4: Place Truss (Ladder).
 
 5: Build Staircase (5 steps generated instantly).
 
@@ -37,7 +37,7 @@ The game Auto-Saves every time you press ESC or close the window.
 
 The map is saved as autosave.sg in the game folder.
 
-📤 How to Share Your World
+📤 How to Share Your Obby
 
 Open the folder containing the game
 

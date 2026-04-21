@@ -1,5 +1,5 @@
 # MYGAME
-READ FIRST THEN TRY! YOU CAN MODIFY IT IF YOU WNT ITS OPEN SOURCE
+READ FIRST THEN TRY! YOU CAN MODIFY IT IF YOU WANT ITS OPEN SOURCE
 
 Welcome to samir game! Use this game to build and play your own Obby courses.
 1. Movement & Play Mode:
